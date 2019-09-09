@@ -29,4 +29,6 @@ Classify whether the given input image is real or fake
   
   ![negative_image](/images/negative_image.png)
 - Finished 4th in over 40 teams
+
 ![result_image](/images/result_image.png)
+
